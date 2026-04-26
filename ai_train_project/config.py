@@ -1,0 +1,4 @@
+EPOCHS=5
+DATA_PATH="dataset"
+LR=1e-3
+BATCH_SIZE=4

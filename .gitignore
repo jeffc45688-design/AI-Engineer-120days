@@ -1,0 +1,6 @@
+*.pth
+*.pt
+*.dll
+__pycache__/
+.env
+ai_env/
